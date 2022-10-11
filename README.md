@@ -1,1 +1,1 @@
-The ngs pipeline for ChIP-seq
+This is the code for AtChz1
